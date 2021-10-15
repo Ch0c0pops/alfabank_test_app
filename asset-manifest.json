@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alfabank_test_app/static/css/main.1d4eea66.chunk.css",
+    "main.js": "/alfabank_test_app/static/js/main.4eb010f8.chunk.js",
+    "main.js.map": "/alfabank_test_app/static/js/main.4eb010f8.chunk.js.map",
+    "runtime-main.js": "/alfabank_test_app/static/js/runtime-main.e780ba55.js",
+    "runtime-main.js.map": "/alfabank_test_app/static/js/runtime-main.e780ba55.js.map",
+    "static/js/2.b602576d.chunk.js": "/alfabank_test_app/static/js/2.b602576d.chunk.js",
+    "static/js/2.b602576d.chunk.js.map": "/alfabank_test_app/static/js/2.b602576d.chunk.js.map",
+    "static/js/3.3198bcea.chunk.js": "/alfabank_test_app/static/js/3.3198bcea.chunk.js",
+    "static/js/3.3198bcea.chunk.js.map": "/alfabank_test_app/static/js/3.3198bcea.chunk.js.map",
+    "index.html": "/alfabank_test_app/index.html",
+    "static/css/main.1d4eea66.chunk.css.map": "/alfabank_test_app/static/css/main.1d4eea66.chunk.css.map",
+    "static/js/2.b602576d.chunk.js.LICENSE.txt": "/alfabank_test_app/static/js/2.b602576d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e780ba55.js",
+    "static/js/2.b602576d.chunk.js",
+    "static/css/main.1d4eea66.chunk.css",
+    "static/js/main.4eb010f8.chunk.js"
+  ]
+}
