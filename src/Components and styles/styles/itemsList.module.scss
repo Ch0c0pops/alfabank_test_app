@@ -1,0 +1,15 @@
+.itemsList{
+
+  padding-top: 2rem;
+  display: grid;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+
+  h1{
+    position: absolute;
+    margin: 0 auto;
+  }
+  &__item{
+    background-color: #6b8fd4;
+  }
+}

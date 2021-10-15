@@ -1,0 +1,11 @@
+.pagination{
+ margin-top: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+
+  button{
+   color: white;
+    background-color: rgba(139, 0, 0, 0.8);
+  }
+}
